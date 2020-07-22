@@ -1,0 +1,5 @@
+---
+- name: Simple Ansible Script Tower
+  hosts: all
+  become: yes
+  gather_facts: no
